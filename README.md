@@ -1,6 +1,6 @@
 <h3>installation</h3>
 <ul>
-  <li>apt install python2</li>
+  <li>apt install python</li>
   <li>git clone https://github.com/Subha8436/JS-Finder.git</li>
   <li>cd JS-Finder</li>
   <li>chmod +x *</li>
@@ -9,13 +9,13 @@
 </ul>
 create by SubhaAd
 
-- __Copy && Pest__
+- <h3>Copy && Pest</h3>
 
-''' 
-apt install python2
+```
+apt install python
 git clone https://github.com/Subha8436/JS-Finder.git
 cd JS-Finder
 chmod +x *
 pip install -r requirement.txt
 python js_finder.py
-'''
+```
