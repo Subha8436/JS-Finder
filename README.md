@@ -8,3 +8,14 @@
   <li>python js_finder.py</li>
 </ul>
 create by SubhaAd
+
+- __Copy && Pest__
+
+''' 
+apt install python2
+git clone https://github.com/Subha8436/JS-Finder.git
+cd JS-Finder
+chmod +x *
+pip install -r requirement.txt
+python js_finder.py
+'''
