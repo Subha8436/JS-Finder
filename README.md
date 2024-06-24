@@ -4,6 +4,6 @@
   <li>git clone https://github.com/Subha8436/JS-Finder.git</li>
   <li>cd JS-Finder</li>
   <li>chmod +x *</li>
-  <li>python js-finder.py</li>
+  <li>python js_finder.py</li>
 </ul>
 create by SubhaAd
